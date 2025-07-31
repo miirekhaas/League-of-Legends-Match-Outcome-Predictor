@@ -17,6 +17,7 @@ This project analyzes 171,239 League of Legends match records to predict whether
 - **Size**: ~17 MB
 - **Rows**: 171,239
 - **Path**: `/datasets/_deepnote_work/20250731-171239/games.csv`
+- **🔗**: [Download games.csv](https://www.kaggle.com/datasets/bobbyscience/league-of-legends-diamond-ranked-games-10-min)
 
 ### Features Used:
 | Feature | Description |
